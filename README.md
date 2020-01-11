@@ -6,7 +6,7 @@ TradecoinLotto Dapp Link: https://waves-dapp.com/3P2CUyZXjhkGM8RkCpu4hEbBafbS8Mw
 How to Play?
 Click here https://waves-dapp.com/3P2CUyZXjhkGM8RkCpu4hEbBafbS8Mw3W9x
 Sign in with a Waves Keeper account. For Further Safety purpose create a seperate account and deposit Some Waves in that account and play. 
-Put the amount and Sign the transaction with from Waves Keeper account.
-It will randomly generate a number which will decide either you "WIN" or "Lose".
+Put the amount in Dapp and Sign the transaction with from Waves Keeper account and approve it.
+After Signing the Transaction, It will randomly generate a number which will decide either you "WIN" or "Lose".
 Good Luck! for your Fortune.
 
